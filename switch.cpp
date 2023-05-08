@@ -62,6 +62,7 @@ int main (){
             cout << "You've got F grade." << endl;
             break;
     }
+    // a 
     //Same question using if else
     if (percentage >= 90 && percentage <= 100) {
         cout << "You've got S grade." << endl;
