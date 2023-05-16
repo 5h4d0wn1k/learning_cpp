@@ -18,7 +18,7 @@ int main (){
     percentage = ((a+b+c+d+e+f)*100)/600;
     cout<<percentage;
     //USING switch case sf df abc
-    int grade;
+    int grade; //ad 
     switch(int(percentage/10)) {
         case 10:
         case 9:
